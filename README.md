@@ -19,4 +19,4 @@ npm run dev
 
 ### 4. Access the Application
 
-http://localhost:3000
+http://localhost:3000/demo
