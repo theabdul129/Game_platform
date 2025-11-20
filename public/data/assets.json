@@ -1,0 +1,30 @@
+[
+  {
+    "id": "asset-1",
+    "name": "Arcana Relay",
+    "description": "Upgradeable relay enabling cross-realm matchmaking.",
+    "image": "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format&fit=crop&w=1200&q=80",
+    "owner": "0xA11CE000000000000000000000000000000C0DE"
+  },
+  {
+    "id": "asset-2",
+    "name": "Genesis Shard",
+    "description": "Founders-only artifact that boosts XP gains.",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "owner": "0xB0B00000000000000000000000000000000000B"
+  },
+  {
+    "id": "asset-3",
+    "name": "Pilot Badge",
+    "description": "Badge for early tournament pilots in Season 0.",
+    "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1200&q=80",
+    "owner": "0xA11CE000000000000000000000000000000C0DE"
+  },
+  {
+    "id": "asset-4",
+    "name": "Sentinel Drone",
+    "description": "Deployable drone that scouts hostile arenas.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "owner": "0xC0D300000000000000000000000000000000123"
+  }
+]
